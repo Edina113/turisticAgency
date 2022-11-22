@@ -1,0 +1,72 @@
+.grid_6{
+    padding:0;
+    margin-top:-4%;
+}
+
+.grid_6 form{
+    border-radius: 25px;
+    border: 2px solid #b42d29;
+    padding:0px 5px 0px 5px;
+  }
+
+.grid_6 h1{
+    font-family : Arial, Helvetica, sans-serif;
+    font-size : 25px;
+    font-weight : bold;
+    margin-left:36%;
+    margin-bottom: 30px;
+    }
+    .grid_6 label,.grid_6 a 
+{
+    font-family : Arial, Helvetica, sans-serif;
+    font-size : 20px; 
+    color:black;
+    margin: 0 0 0 10px;
+} 
+    
+.grid_6 input, select {
+      border: 2px solid #777;
+      box-sizing: border-box;
+      font-size: 12pt;
+      font-family: 'Nanum Gothic';
+      width: 95%;
+      padding: 0px;
+      margin: 10px 0 0 10px;
+    }
+    
+
+    .grid_6   textarea {
+      height: 80px;
+      border: 2px solid #777;
+      box-sizing: border-box;
+      font-size: 12pt;
+      font-family: 'Nanum Gothic';
+      width: 95%;
+      padding: 0px;
+      margin: 10px 0 0 10px;
+    }
+    
+    .grid_6  hr {
+      border: 1px dotted #ccc;
+    }
+    
+    .grid_6 #btn1 {
+      height: 40px;
+      background-color: #4682B4;
+      border: none;
+      color: white;
+      font-size: 1.25em;
+      font-family: 'Nanum Gothic';
+      border-radius: 4px;
+      cursor: pointer;
+      width: 30%;
+      padding:0px;
+      margin-left:35%;
+      padding-left:3px;
+      padding-right: 10px;
+      margin-bottom:5px
+    }
+    
+    .grid_6  button:hover {
+      border: 2px solid black;
+    }

@@ -1,0 +1,29 @@
+
+#frm{  
+    border-radius: 20px;
+    border: solid black 2px;  
+    
+    width:35%;  
+    border-radius: 2px;  
+    margin-left: 550px;  
+    background-color:#b42d29;  
+    padding-left: 10px;  
+    padding-right: 10px;
+    font-size: 15pt;
+    color:#fff;
+    padding-top: 10px;
+}  
+#btn{  
+    color: #fff;  
+    background-color:#008cff;  
+    padding-left: 0px;  
+    margin-left: 0%; 
+}  
+
+#btn:hover {
+    border: 2px solid black;
+  }
+
+#frm form p input{
+    padding-right: 40px;
+}
